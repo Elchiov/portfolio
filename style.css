@@ -386,8 +386,9 @@ code {
 
 .hero-portrait {
   position: absolute;
-  right:10vw;
+  right: 10vw;
   width: 30vw;
+
 }
 
 .geo-shapes {
@@ -1169,7 +1170,7 @@ body.project-open {
 
 .hero-portrait {
   position: absolute;
-  right:-5vw;
+  right:0;
   width: 30vw;
   opacity: 50%!important;
 }
@@ -1260,7 +1261,7 @@ body.project-open {
 
 .hero-portrait {
   position: absolute;
-  right:-10vw;
+  right:0;
   width: 50vw;
   height: 50vh;
 }
